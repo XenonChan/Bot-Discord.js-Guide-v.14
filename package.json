@@ -1,0 +1,23 @@
+{
+  "name": "bot-discord.js-guide-v.14",
+  "version": "1.0.0",
+  "description": "ถ้าไม่ขก.ก็จะทำนะจ๊ะ (comming soon)....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XenonChan/Bot-Discord.js-Guide-v.14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XenonChan/Bot-Discord.js-Guide-v.14/issues"
+  },
+  "homepage": "https://github.com/XenonChan/Bot-Discord.js-Guide-v.14#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
